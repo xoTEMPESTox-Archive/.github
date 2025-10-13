@@ -30,7 +30,7 @@ No further updates or maintenance are planned.
 **Priyanshu Sah**  
 Full-Stack AI Engineer | DevOps | MLOps | Open-Source Contributor  
 📍 Mumbai, India  
-🔗 [Portfolio](https://codolio.com/profile/_TEMPEST_)  
+🔗 [CP](https://codolio.com/profile/_TEMPEST_)  
 🔗 [LinkedIn](https://linkedin.com/in/priyanshu123sah/)  
 🔗 [GitHub](https://github.com/xoTEMPESTox)
 
