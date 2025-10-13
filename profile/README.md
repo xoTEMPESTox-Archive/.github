@@ -1,6 +1,6 @@
 # 🗃️ xoTEMPESTox-Archive
 
-Welcome to **xoTEMPESTox-Archive** — a public archive of older, experimental, or learning-phase projects by [Priyanshu Sah](https://github.com/xoTEMPESTox).
+Welcome to **xoTEMPESTox-Archive** a public archive of older, experimental, or learning-phase projects by [Priyanshu Sah](https://github.com/xoTEMPESTox).
 
 This organization serves as a structured archive for repositories that are no longer in active development but remain publicly accessible for reference, inspiration, and transparency.
 
@@ -16,9 +16,9 @@ This organization serves as a structured archive for repositories that are no lo
 
 ## 📁 What You'll Find Here
 
-- 🧠 **Learning Projects** — experiments created while exploring new frameworks or languages.  
-- ⚙️ **Deprecated Tools** — earlier iterations of AI, Web, or Blockchain systems.  
-- 🧩 **Archived Prototypes** — proof-of-concept builds that inspired later production versions.  
+- 🧠 **Learning Projects** : experiments created while exploring new frameworks or languages.  
+- ⚙️ **Deprecated Tools** : earlier iterations of AI, Web, or Blockchain systems.  
+- 🧩 **Archived Prototypes** : proof-of-concept builds that inspired later production versions.  
 
 All repositories here are **archived (read-only)** and **publicly accessible**.  
 No further updates or maintenance are planned.
