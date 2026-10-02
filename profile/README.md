@@ -6,7 +6,7 @@ This organization serves as a structured archive for repositories that are no lo
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 - Preserve early-stage projects, prototypes, and experiments.  
 - Keep the main [xoTEMPESTox](https://github.com/xoTEMPESTox) profile focused on high-quality, active repositories.  
@@ -14,11 +14,11 @@ This organization serves as a structured archive for repositories that are no lo
 
 ---
 
-## 📁 What You'll Find Here
+## What You'll Find Here
 
-- 🧠 **Learning Projects** : experiments created while exploring new frameworks or languages.  
-- ⚙️ **Deprecated Tools** : earlier iterations of AI, Web, or Blockchain systems.  
-- 🧩 **Archived Prototypes** : proof-of-concept builds that inspired later production versions.  
+- **Learning Projects** : experiments created while exploring new frameworks or languages.  
+- **Deprecated Tools** : earlier iterations of AI, Web, or Blockchain systems.  
+- **Archived Prototypes** : proof-of-concept builds that inspired later production versions.  
 
 All repositories here are **archived (read-only)** and **publicly accessible**.  
 No further updates or maintenance are planned.
@@ -36,5 +36,4 @@ Full-Stack AI Engineer | DevOps | MLOps | Open-Source Contributor
 
 ---
 
-> 🧩 *“Every project, no matter how small, adds a layer of experience to the journey.”*  
-> — Priyanshu Sah
+> *“Every project, no matter how small, adds a layer of experience to the journey.”* 
